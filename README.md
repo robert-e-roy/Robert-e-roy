@@ -1,7 +1,3 @@
-
-<!--
-**robert-e-roy/Robert-e-roy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 ### Rob Roy: private, on-device AI for Apple platforms
 
 I build AI software that keeps data on the user's device: Swift and Apple
