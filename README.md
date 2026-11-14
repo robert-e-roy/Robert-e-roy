@@ -15,6 +15,6 @@ evals) when the job needs a server you own.
 release engineering at SGI (IRIX), build and SCM at Informix and IBM,
 SRE for high-traffic e-commerce. Now shipping privacy-first apps under HomesteadAI.
 
-**Stack:** Swift 6 · SwiftUI · Foundation Models · Core ML · MLX · Python · Ollama · FastAPI
+**Stack:** Swift 6 · SwiftUI · Foundation Models · Core ML · MLX · Python · Ollama · FastAPI · PHP
 
 📫 [robroy.online](https://robroy.online) · info@robroy.online
