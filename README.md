@@ -9,6 +9,7 @@ evals) when the job needs a server you own.
 - **[debatebench](https://github.com/robert-e-roy/debatebench)**: adversarial multi-turn LLM debates scored against a fixed rubric.
 - **[CorpusKit](https://github.com/robert-e-roy/CorpusKit)**: on-device RAG corpora for iOS and macOS.
 - **[PyTorch_to_CoreML](https://github.com/robert-e-roy/PyTorch_to_CoreML)**: MiniLM embeddings to Core ML, without ONNX.
+- **[apns-push-relay](https://github.com/robert-e-roy/apns-push-relay)**: dependency-free PHP relay for APNs (HTTP/2, .p8 JWT) on shared hosting.
 
 **Background:** 40 years taking software from prototype to production:
 release engineering at SGI (IRIX), build and SCM at Informix and IBM,
